@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "spotlight1"
+title : "Eating"
+content: |
+  There will be eating.
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/eating.jpg"

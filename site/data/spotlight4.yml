@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+id: "map"
+title : "Venue"
+content: |
+  BlueJay & Nuthatch Pavilion at Seneca Creek State Park<br>Gaithersburg, MD
+button: 
+  label: "Get directions"
+  link: "https://www.google.com/maps/dir//BlueJay+%26+Nuthatch+Pavilion+at+Seneca+Creek+State+Park,+North+Potomac,+MD+20878/@39.1454657,-77.3016072,12.96z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89b62d1cac1ea54b:0xe8b300e63c8fe0cd!2m2!1d-77.2662248!2d39.141242!3e0?entry=ttu"
+image: "images/map.PNG"

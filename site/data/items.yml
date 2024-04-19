@@ -1,0 +1,24 @@
+title : "Schedule of Events"
+content: |
+  Tentatively, here's what we have in store (subject to change due to tomfoolery)
+style: "items style4 large onscroll-fade-in style3 big"
+items:
+  # feature item loop
+  - name : "Full Bar (time tbd)"
+    content : "We hired a bartender, drink (ir)responsibly"
+    style : "style2 major fa-martini-glass-citrus"
+
+  # feature item loop
+  - name : "Zzzzza (time tbd)"
+    content : "It ain't easy being cheesy"
+    style : "solid style2 major fa-pizza"
+    
+  # feature item loop
+  - name : "BBQ (time tbd)"
+    content : "We hired a grillmaster - let's get fats!"
+    style : "solid style2 major fa-grill-hot"
+    
+  # feature item loop
+  - name : "Games (time tbd)"
+    content : "There will be games..."
+    style : "solid style2 major fa-hammer-war"

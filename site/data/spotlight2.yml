@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Drinking"
+content: |
+  There will be drinking.
+image: "images/drinking.jpg"

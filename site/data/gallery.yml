@@ -1,0 +1,42 @@
+title: "Some photos"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  These are some photos of <strong>you know who</strong>.
+pictures:
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img5.jpg"
+    thumb: "images/gallery/thumbs/img5.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img6.jpg"
+    thumb: "images/gallery/thumbs/img6.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img7.jpg"
+    thumb: "images/gallery/thumbs/img7.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img8.jpg"
+    thumb: "images/gallery/thumbs/img8.jpg"
+    button: "Details"
+  
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img2.jpg"
+    thumb: "images/gallery/thumbs/img2.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/img9.jpg"
+    thumb: "images/gallery/thumbs/img9.jpg"
+    button: "Details"
+
