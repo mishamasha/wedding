@@ -3,4 +3,4 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Drinking"
 content: |
   There will be drinking.
-image: "images/drinking.jpg"
+image: "https://s3.amazonaws.com/mashamisha.wedding/drinking.jpg"
