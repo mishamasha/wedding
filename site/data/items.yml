@@ -20,5 +20,9 @@ items:
     
   # feature item loop
   - name : "Games (time tbd)"
-    content : "There will be games..."
+    content : "There will be games"
     style : "solid style2 major fa-hammer-war"
+
+  - name: "Ze end"
+    content: "You don't have to go home, but you can't stay here"
+    style : "solid style2 major fa-house-person-leave"

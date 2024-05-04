@@ -1,10 +1,10 @@
-<article>
+<article class="align-center">
     <a href="{{ .image }}" class="image">
-        <img src="{{ .thumb }}" alt="" />
+        <div style="height:360px; position: relative; background: white;">
+            <img style="width:80%; position:absolute; top:50%; left:50%; transform: translate(-50%, -50%);" src="{{ .thumb }}" alt="" />
+        </div>
     </a>
     <div class="caption">
-        <h3>{{ .title }}</h3>
-        <p>{{ .content }}</p>
         <ul class="actions fixed">
             <li><span class="button small">{{ .button }}</span></li>
         </ul>

@@ -2,11 +2,11 @@
 style: "banner onload-image-fade-in onload-content-fade-right style3 fullscreen orient-right content-align-left image-position-center"
 title : "Masha & Misha"
 subtitle: |
-  You are cordially invited to celebrate our wedding on September 14th, 2024 in Gaithersburg, MD.
+  You are cordially invited to celebrate our wedding on <b>September 14th, 2024 in Gaithersburg, MD.</b>
 content : |
-  Scroll down for the deets.
+  Save the date!
 button:
   label : "Jump to venue details"
   link : "#map"
-image : "images/banner.jpg"
+image : "https://s3.amazonaws.com/mashamisha.wedding/banner.jpg"
 

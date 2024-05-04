@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "Wedding for Masha & Misha"
-  logo = "images/banner.jpg"
+  logo = "https://s3.amazonaws.com/mashamisha.wedding/banner.jpg"
   favicon = true
 
 [Params.social]

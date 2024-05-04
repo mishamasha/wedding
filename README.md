@@ -1,4 +1,5 @@
 # wedding
 
 TODO:
-1. RU + EN translation
+- Full schedule
+- RU/EN?
