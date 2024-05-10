@@ -6,6 +6,6 @@ subtitle: |
 content : |
   Save the date!
 button:
-  label : "Jump to venue details"
-#   link : "#map"
+  label : "RSVP"
+  link : "#spotlight5"
 image : "https://s3.amazonaws.com/mashamisha.wedding/banner.jpg"
