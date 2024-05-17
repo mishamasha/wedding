@@ -383,6 +383,8 @@
 		position: relative;
 		overflow-x: hidden;
 		text-align: left;
+		background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://s3.amazonaws.com/mashamisha.wedding/venue-collage.jpg");
+		background-repeat: repeat-x;
 
 		.content {
 			width: $content-size;

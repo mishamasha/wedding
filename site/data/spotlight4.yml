@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+style: "style2 orient-left content-align-right image-position-center onscroll-image-fade-in"
 id: "map"
 title : "Venue"
 content: |
