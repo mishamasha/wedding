@@ -4,8 +4,8 @@ title : "Masha & Misha"
 subtitle: |
   You are cordially invited to celebrate our wedding on <b>September 14th, 2024 in Gaithersburg, MD.</b>
 content : |
-  Save the date!
+  Come join us to celebrate our union!
 button:
-  label : "RSVP (coming soon)"
-  # link : "#spotlight5"
+  label : "Jump to RSVP form"
+  link : "#spotlight5"
 image : "https://s3.amazonaws.com/mashamisha.wedding/banner.jpg"

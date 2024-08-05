@@ -1,5 +1,5 @@
 <section>
     <span class="icon {{ .style }}"></span>
     <h3>{{ .name }}</h3>
-    <p>{{ .content }}</p>
+    <p>{{ .content }}{{ if (.link)  }}, <a href="{{ .link }}" target="_blank">see menu</a>{{ end }}</p>
 </section>

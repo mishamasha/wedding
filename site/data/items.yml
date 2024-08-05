@@ -1,28 +1,37 @@
 title : "Schedule of Events"
 content: |
-  Tentatively, here's what we have in store (subject to change due to tomfoolery)
-style: "items style4 large onscroll-fade-in style3 big"
+  <b>Dress code: Informally Fabulous</b>
+  <br>Here's what we have in store (subject to change due to shenanigans)
+style: "items style4 large onscroll-fade-in big"
 items:
-  # feature item loop
-  - name : "Full Bar (time tbd)"
-    content : "We hired a bartender, drink (ir)responsibly"
-    style : "style2 major fa-martini-glass-citrus"
+  - name: "13:00 | Guests arrive"
+    content: "Parking is available right at the pavilion"
+    style : "style4 major fa-plane-arrival"
 
-  # feature item loop
-  - name : "Zzzzza (time tbd)"
+  - name : "13:00 - 17:00 | Full Bar"
+    content : "We hired a bartender - Boa Bar - drink (ir)responsibly"
+    link: https://s3.amazonaws.com/mashamisha.wedding/boabar_menu.PNG
+    style : "style4 major fa-martini-glass-citrus"
+
+  - name : "13:30 - 15:30 | BBQ"
+    content : "We hired a grillmaster - parrillada by El Patio"
+    link: https://s3.amazonaws.com/mashamisha.wedding/elpatio_menu.PNG
+    style : "solid style4 major fa-grill-hot"
+
+  - name : "14:00 - 16:00 | Unlimited pizza by Murazzi Pizza"
     content : "It ain't easy being cheesy"
-    style : "solid style2 major fa-pizza"
-    
-  # feature item loop
-  - name : "BBQ (time tbd)"
-    content : "We hired a grillmaster - let's get fats!"
-    style : "solid style2 major fa-grill-hot"
-    
-  # feature item loop
-  - name : "Games (time tbd)"
-    content : "There will be games"
-    style : "solid style2 major fa-hammer-war"
+    link: "https://s3.us-east-1.amazonaws.com/mashamisha.wedding/murazzi_menu.PNG"
+    style : "solid style4 major fa-pizza"
+  
+  - name : "16:00 - 18:00 | Dancing, general tomfoolery"
+    content : "Bust a move"
+    style : "solid style4 major fa-music"
 
-  - name: "Ze end"
+  - name : "16:00 - 18:00 | Cake time + drinks by Park & Perk"
+    content : "Bring your sweet tooth"
+    link: https://s3.amazonaws.com/mashamisha.wedding/parkperk_menu.PNG
+    style : "solid style4 major fa-cake"
+
+  - name: "18:00 | Ze end"
     content: "You don't have to go home, but you can't stay here"
-    style : "solid style2 major fa-house-person-leave"
+    style : "solid style4 major fa-house-person-leave"

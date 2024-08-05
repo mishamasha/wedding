@@ -6,26 +6,14 @@ pictures:
 
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095103_877.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095103_877.jpg"
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095119_216.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095119_216.jpg"
     button: "Make it bigger"
-
+  
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095105_913.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095105_913.jpg"
-    button: "Make it bigger"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095108_182.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095108_182.jpg"
-    button: "Make it bigger"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095109_429.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095109_429.jpg"
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095120_131.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095120_131.jpg"
     button: "Make it bigger"
   
   - title: "Title"
@@ -48,20 +36,32 @@ pictures:
 
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095117_070.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095117_070.jpg"
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095126_051.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095126_051.jpg"
     button: "Make it bigger"
-  
+    
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095119_216.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095119_216.jpg"
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095103_877.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095103_877.jpg"
     button: "Make it bigger"
-  
+
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095120_131.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095120_131.jpg"
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095105_913.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095105_913.jpg"
+    button: "Make it bigger"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095108_182.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095108_182.jpg"
+    button: "Make it bigger"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095109_429.jpg"
+    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095109_429.jpg"
     button: "Make it bigger"
 
   - title: "Title"
@@ -74,12 +74,6 @@ pictures:
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
     image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095124_069.jpg"
     thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095124_069.jpg"
-    button: "Make it bigger"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095126_051.jpg"
-    thumb: "https://s3.amazonaws.com/mashamisha.wedding/IMG_20240504_095126_051.jpg"
     button: "Make it bigger"
 
   - title: "Title"
