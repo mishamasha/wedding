@@ -8,4 +8,7 @@ content : |
 button:
   label : "Jump to RSVP form"
   link : "#spotlight5"
+button_donate:
+  label: "Gifts"
+  link: "https://gofund.me/d3e589f1"
 image : "https://s3.amazonaws.com/mashamisha.wedding/banner.jpg"
